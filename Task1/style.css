@@ -1,7 +1,9 @@
-#img1
-{
-    position:fixed;
-    top:-10px;
+body{
+    background-color:#99ccff;
+}
+h1{
+    position:absolute;
+    top:15px;
     left:50px;
 }
 #navlist
@@ -40,7 +42,7 @@
 }
 #navlist :hover{
     background-color:#ffb3d9;
-    color:	  #595959;
+    color:	  black;
     font-size:16px;
 }
 #img2
